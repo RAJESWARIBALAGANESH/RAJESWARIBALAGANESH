@@ -30,7 +30,7 @@ Transforming Raw Data into Meaningful Business Insights
 
 # 👩‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"/>
+<img align="right" width="380" alt="Female Analyst" src="https://cdn-icons-png.flaticon.com/512/6997/6997662.png"/>
 
 🎓 B.E. Electronics & Communication Engineering
 
