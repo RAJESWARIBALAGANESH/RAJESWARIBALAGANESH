@@ -30,8 +30,7 @@ Transforming Raw Data into Meaningful Business Insights
 
 # 👩‍💻 About Me
 
-<img align="right" width="450" alt="Female Data Analyst"
-src="./assets/female-data-analyst.png">
+https://github.com/RAJESWARIBALAGANESH/RAJESWARIBALAGANESH/blob/main/female%20da.png
 
 🎓 B.E. Electronics & Communication Engineering
 
