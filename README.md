@@ -1,189 +1,231 @@
-RAJESWARI BALAGANESH
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJESWARI%20BALAGANESH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Turning%20Data%20Into%20Decisions&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=RAJESWARI%20BALAGANESH&fontAlignY=38&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Dashboards+That+Drive+Decisions;Machine+Learning+Enthusiast;Transforming+Raw+Data+Into+Insights" alt="Typing SVG" /></a>
+<h3>📊 Data Analyst | Python | SQL | Power BI</h3>
 
-<br/>
+<p>
+Transforming Raw Data into Meaningful Business Insights
+</p>
 
-!Profile Views
-![LinkedIn](https://linkedin.com/in/rajeswari-balaganesh-)
-![Portfolio](https://rajeswaribalaganes.wixsite.com/portfolio)
-![Gmail](mailto:rajeswaribalaganesh@gmail.com)
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="mailto:rajeswaribalaganesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=RAJESWARIBALAGANESH&style=for-the-badge&color=blue"/>
 
 </div>
 
-👩‍💻 About Me
+---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+# 👩‍💻 About Me
 
-``python
-class DataAnalyst:
-    def init(self):
-        self.name = "Rajeswari Balaganesh"
-        self.location = "Chennai, India"
-        self.degree = "B.E. in Electronics & Communication Engineering"
-        self.role = "Data Analyst"
-        
-        self.stack = [
-            "Python", "SQL", "PostgreSQL", 
-            "MySQL", "Power BI", "Excel",
-            "Django", "Machine Learning"
-        ]
-        
-        self.currentlylearning = [
-            "Advanced Machine Learning",
-            "Cloud Data Platforms",
-            "Data Engineering Pipelines"
-        ]
-        
-        self.funfact = "I turn messy datasets into beautiful insights ✨"
-    
-    def motto(self):
-        return "Data tells a story — I make sure it's heard."
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h6NjM3NmM3YzQ3Y2g2b2J2eDF6cWJydzR0Zm8ybzQ0aDExY3VhNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-me = DataAnalyst()
-`
+🎓 B.E. Electronics & Communication Engineering
+
+📍 Chennai, India
+
+📊 Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, and Machine Learning.
+
+🚀 Passionate about Business Intelligence, Data Visualization, Analytics, and Data-Driven Decision Making.
+
+🌱 Currently learning Data Engineering, Cloud Analytics, and Advanced Machine Learning.
+
+✨ I enjoy transforming complex datasets into actionable business insights.
 
 <br clear="right"/>
 
-🛠️ Tech Stack
+---
 
-<div align="center">
+# 🛠️ Tech Stack
 
-Languages
+### Programming & Analytics
 
-!Python
-!SQL
-!R
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
-Data & Analytics
+### Data Tools
 
-!Power BI
-!Excel
-!Pandas
-!NumPy
-!Matplotlib
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-Databases
-
-!PostgreSQL
-!MySQL
-!SQL Server
-
-Frameworks & Tools
-
-!Django
-!Tkinter
-!Scikit Learn
-!Git
-!VS Code
-
-</div>
+---
 
 
-💼 Work Experience
+# 💼 Professional Experience
 
-<details>
-<summary><b>🤖 Software AI Engineer — Budstech Consultancy and Services</b></summary>
-<br/>
+## 🤖 Software AI Engineer Intern | Budstech Consultancy and Services
 
-> !Python !SQL !API
+* Developed AI-powered software solutions using Python and SQL.
+* Built backend modules, APIs, and database operations.
+* Worked on automation and intelligent data-driven applications.
+* Contributed throughout the software development lifecycle.
 
-• 🔹 Developed AI-based software solutions using Python and SQL
-• 🔹 Built backend functionalities, database operations, and API integrations
-• 🔹 Worked on automation and data-driven system enhancements
-• 🔹 Contributed to end-to-end AI product development lifecycle
+### Technologies Used
 
-</details>
+Python • SQL • APIs • Backend Development
 
-<details>
-<summary><b>📊 Data Scientist Intern — NetworkGeek</b></summary>
-<br/>
+---
 
-> !Data Analysis !Python
+## 📊 Data Scientist Intern | NetworkGeek
 
-• 🔹 Applied data cleaning, transformation, and analysis techniques on real-world datasets
-• 🔹 Worked with data preprocessing and analytical methods to derive meaningful insights
-• 🔹 Successfully completed the internship with an experience certificate
+* Performed data cleaning, transformation, and exploratory analysis.
+* Applied preprocessing techniques to improve data quality.
+* Generated analytical insights from real-world datasets.
+* Successfully completed the internship and received an experience certificate.
 
-</details>
+### Technologies Used
 
-🚀 Featured Projects
+Python • Data Analysis • Data Cleaning
 
-<div align="center">
+---
 
-| Project | Tech Stack | Highlights |
-|:-------:|:----------:|:-----------|
-| Boardroom BI Platform | SQL Server Django REST API | Business Intelligence platform with real-time data retrieval, secure backend services, and management reporting |
-| E-Voting System | PostgreSQL Python Tkinter | Secure authentication with email verification, one-vote-per-user logic, admin panel, and real-time pie chart results |
-| Customer Churn Analysis | Power BI DAX Power Query | Interactive dashboard with KPIs, segment-wise analysis; targeted 5% increase in contract sales and automatic payments |
-| Bike Sales Dashboard | Excel PivotTables Slicers | Sales analysis across gender, age, region, income; data-driven marketing recommendations |
-| Li-Ion Battery Aging Analysis | Python ML ANN Random Forest | ML framework predicting battery aging patterns to enhance battery management and reliability |
+# 🚀 Featured Projects
 
-</div>
+## 📊 Boardroom Business Intelligence Platform
 
-🏅 Achievements & Certifications
+**Tech Stack:** SQL Server, Django REST API
 
-<div align="center">
+* Developed a Business Intelligence platform for management reporting.
+* Implemented secure backend services and real-time data retrieval.
+* Enabled data-driven decision-making through centralized dashboards.
 
-| 🎯 | Achievement | Details |
-|:--:|:-----------:|:--------|
-| 📜 | Data Analytics Certification | Zukun Academy — Comprehensive data analytics program |
-| 💼 | Tata Data Analytics Simulation | Forage — Real-world job simulation with Tata Group |
-| 🌐 | Data Analytics Essentials | Cisco Networking Academy — Foundational analytics skills |
-| ⚡ | Power BI Bootcamp | Udemy — 15 Days Complete Microsoft Power BI Bootcamp |
-| 🗣️ | BEC Certificate | Business English Communication proficiency |
+---
 
-</div>
+## 🗳️ E-Voting System
 
-🎓 Education
+**Tech Stack:** Python, PostgreSQL, Tkinter
 
-<div align="center">
+* Built secure authentication with email verification.
+* Implemented one-vote-per-user validation.
+* Developed admin controls and real-time result visualization.
 
-| Degree | Institution | Year | Score |
-|:------:|:-----------:|:----:|:-----:|
-| B.E. Electronics & Communication | St. Joseph's College of Engineering, Chennai | 2020 - 2024 | — |
-| Higher Secondary (12th) | St. Savio Matriculation HSS, Chennai | 2019 - 2020 | — |
+---
 
-</div>
+## 📈 Customer Churn Analysis
 
-📚 Currently Learning
+**Tech Stack:** Power BI, DAX, Power Query
 
-`
+* Built an interactive dashboard for customer retention analysis.
+* Identified opportunities to improve contract renewals.
+* Delivered actionable business recommendations.
+
+---
+
+## 🚲 Bike Sales Dashboard
+
+**Tech Stack:** Excel, Pivot Tables, Slicers
+
+* Analyzed sales performance across demographics.
+* Created interactive dashboards for business reporting.
+* Generated marketing and customer segmentation insights.
+
+---
+
+## 🔋 Li-Ion Battery Aging Analysis
+
+**Tech Stack:** Python, Machine Learning, Random Forest
+
+* Developed predictive models for battery aging analysis.
+* Evaluated performance degradation patterns.
+* Improved battery reliability forecasting.
+
+---
+
+# 🏆 Certifications
+
+| Certification                      | Provider                 |
+| ---------------------------------- | ------------------------ |
+| Data Analytics Program             | Zukun Academy            |
+| Tata Data Analytics Job Simulation | Forage                   |
+| Data Analytics Essentials          | Cisco Networking Academy |
+| Microsoft Power BI Bootcamp        | Udemy                    |
+| Business English Communication     | Cambridge BEC            |
+
+---
+
+# 🎓 Education
+
+| Degree                                       | Institution                                     |
+| -------------------------------------------- | ----------------------------------------------- |
+| B.E. Electronics & Communication Engineering | St. Joseph's College of Engineering, Chennai    |
+| Higher Secondary Education                   | St. Savio Matriculation Higher Secondary School |
+
+---
+
+# 📚 Currently Learning
+
+```text
 🧠 Advanced Analytics
-   └── Predictive Modeling → Time Series Forecasting → Statistical Analysis
+   └── Predictive Modeling
+   └── Statistical Analysis
+   └── Forecasting Techniques
 
-☁️ Cloud & Big Data
-   └── Azure Data Services → AWS Analytics → Data Engineering
+☁️ Cloud Analytics
+   └── Azure Data Services
+   └── AWS Analytics
+   └── Data Engineering
 
 🤖 Machine Learning
-   └── Deep Learning → Neural Networks → NLP Fundamentals
+   └── Deep Learning
+   └── Neural Networks
+   └── NLP Fundamentals
 
-📊 Visualization Mastery
-   └── Advanced DAX → Custom Visuals → Storytelling with Data
-``
+📊 Data Visualization
+   └── Advanced DAX
+   └── Dashboard Design
+   └── Storytelling with Data
+```
 
-🌐 Languages
+---
+
+# 🌐 Languages
+
+* English
+* Tamil
+* Hindi
+
+---
+
+# 🤝 Let's Connect
+
+💼 Open to Data Analyst, Business Analyst, and Business Intelligence opportunities.
+
+📧 Email: [rajeswaribalaganesh@gmail.com](mailto:rajeswaribalaganesh@gmail.com)
+
+🔗 LinkedIn: https://www.linkedin.com/in/rajeswari-balaganesh-/
+
+🌐 Portfolio: https://rajeswaribalaganes.wixsite.com/portfolio
+
+---
 
 <div align="center">
 
-!English
-!Tamil
-!Hindi
+### ⭐ Thanks for visiting my profile!
 
-</div>
-
-<div align="center">
-
-💬 Let's Connect!
-
-Open to Data Analyst opportunities and exciting data projects
-
-📍 Chennai, India · 📧 rajeswaribalaganesh@gmail.com · 📱 9003159299
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
