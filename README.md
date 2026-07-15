@@ -9,11 +9,11 @@ Transforming Raw Data into Meaningful Business Insights
 </p>
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rajeswari-balaganesh-/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://rajeswaribalaganes.wixsite.com/portfolio">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
